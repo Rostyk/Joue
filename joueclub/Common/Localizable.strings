@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+*/
+
+// Generic
+"LOC_OK"        = "OK";
+"LOC_DELETE"    = "Delete";
+"LOC_ERROR"     = "Error";
+"LOC_UPLOAD"    = "Upload";
+"LOC_DONE"      = "Done";
+"LOC_CANCEL"    = "Cancel";
+"LOC_YES"       = "YES";
+"LOC_NO"        = "NO";
+
+// Errors
+"LOC_ERR_INTERNET_CONNECTION"       = "No internet connection!";
+"LOC_ERR_EMPTY_SERVER_ADDRESS"      = "server address must not be empty";
+"LOC_ERR_INVALID_SERVER_ADDRESS"    = "please enter a valid server address";
+"LOC_ERR_EMPTY_PORT"                = "port field must not me empty";
+"LOC_ERR_INVALID_PORT"              = "port number is not valid";
+"LOC_ERR_EMPTY_EMAIL"               = "email field must not be empty";
+"LOC_ERR_EMPTY_PASSWORD"            = "password filed must not be empty";
+"LOC_ERR_LOGIN_FAILED"              = "Failed to login, please check your username/password and server address";
+"LOC_ERR_HOST_CONNECT"              = "Can not connect to host";
+"LOC_ERR_NO_DATABASE"               = "No databases found on server";
+"LOC_ERR_UNREACHABLE_HOST"          = "host is not reachable";
+"LOC_ERR_SELECT_LEAVE_TYPE"         = "please select leave type";
+"LOC_ERR_SELECT_START_DATE"         = "please select start date";
+"LOC_ERR_SELECT_END_DATE"           = "please select end date";
+"LOC_ERR_SELECT_ACTION"             = "please select action";
+"LOC_ERR_SELECT_DATE"               = "please select date";
+
+//
+"LOC_SELECT_DATE"       = "Select date";
+"LOC_CHOOSE_LEAVE_TYPE" = "Choose Leave Type";
+"LOC_SELECT_TIME_SHEET" = "Select Timesheet";
+"LOC_REQUEST_SUCCESS"   = "request created successfully";
+"LOC_SETUP_SIGN_OUT"    = "Set Up Time and Date you want to Sign Out";
+"LOC_LAST_SIGN_IN"      = "Last Sign In:";
+"LOC_PRESENT"           = "Present";
+"LOC_SIGN_OUT"          = "Sign out";
+"LOC_WORKING_FOR"       = "Already working for:";
+"LOC_SETUP_SIGN_IN"     = "Set Up Time and Date you want to Sign In";
+"LOC_LAST_SIGN_OUT"     = "Last Sign Out:";
+"LOC_ABSENT"            = "Absent";
+"LOC_SIGN_IN"           = "Sign in";
+"LOC_NOT_WORKING_FOR"   = "Not working for:";
+"LOC_UNDEFINED"         = "undefined";
+"LOC_CHOOSE_ACTION_TYPE" = "Choose Action Type";
+"LOC_ATTENDANCE_SUCCESS" = "Attendance created successfully";
+"LOC_PREVIOUS_MONTH"    = "previous month";
+"LOC_TOTAL"             = "Total";
+
+// Menu
+"LOC_MENU_SIGN"         = "Sign in/out";
+"LOC_MENU_SIGN_HISTORY" = "Sign in/out history";
+"LOC_MENU_ATTENDANCE_ANALYSIS" = "Attendance analysis";
+"LOC_MENU_LEAVE_REQUEST" = "Leave Request";
+"LOC_MENU_LOGOUT"       = "Logout";
+
+// Queries
+"LOC_TOTAL_QUERY"       = "Total: %@";
+
